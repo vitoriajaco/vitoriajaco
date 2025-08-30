@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Zup Inovation**
 
-- 🌱 I’m currently learning **Java, Springboot, Kotlin**
+- 🌱 I’m currently learning **Java, Springboot, Python**
 
 - 📫 How to reach me **vitoriajaco@gmail.com**
 
